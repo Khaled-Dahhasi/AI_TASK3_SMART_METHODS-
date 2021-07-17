@@ -4,7 +4,8 @@ This work is for my third task in the AI route at [Smart Methods'](https://s-m.c
 
 ## Task Description 
 Using another ROS robot with SLAM approach to create and save a map.
-The ROS robot used will be [Devansh Dhrafani's diff_drive_bot](https://github.com/devanshdhrafani/diff_drive_bot)
+The ROS robot used will be [Devansh Dhrafani's diff_drive_bot.](https://github.com/devanshdhrafani/diff_drive_bot)
+
 SLAM and other packages are already intalled from [the previous Task](https://github.com/Khaled-Dahhasi/AI_TASK2_SMART_METHODS-/blob/main/README.md)
 
 ## Task Steps
